@@ -1,6 +1,6 @@
 🎥 Introducing FlutFlix 
 ##  What's FlutFlix?
-FluFlix is a cutting-edge Flutter application designed to provide users with comprehensive details about the latest movies.\
+FluFlix is a Flutter application designed to provide users with comprehensive details about the latest movies.\
 It offers movie plot overviews, extensive details, and a captivating user interface to enrich the movie browsing experience.\
 Powered by the TMDB API, FluFlix brings a world of movies to your fingertips.
 
